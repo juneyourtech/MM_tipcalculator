@@ -2,7 +2,8 @@
 
 Tip calculator worksheet for microMathetmatics.
 
-The worksheet is available to download from
+The worksheet is available for download from:
+
 https://github.com/juneyourtech/MM_tipcalculator/releases/
 
 Requirements:
@@ -10,6 +11,7 @@ Requirements:
 microMathematics Plus 2.17.4 or newer.
 
 The μMath+ app is available from the F-Droid store and app, and from the F-Droid website:
+
 https://f-droid.org/en/packages/com.mkulesh.micromath.plus/
 
 Before installation, temporarily allow installing apps from non-Play sources.
